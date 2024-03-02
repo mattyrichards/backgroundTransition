@@ -7,7 +7,7 @@ a web page.
 To aid performance, each image in the list you specify is individually
 downloaded prior to it being transitioned.
 
-A demo of the plugin is available [here](http://www.mttrchrds.com/github/backgroundtransition/).
+A demo of the plugin is available [here](https://mttrchrds.github.io/backgroundtransition/demo/index.html).
 
 ## Installation
 
